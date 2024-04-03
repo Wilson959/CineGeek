@@ -2,6 +2,7 @@
 
 Welcome to CineGeek! Your ultimate destination for everything related to movies and series. 
 
+![CineGeek Logo](link/to/your/logo.png)
 
 ## About
 
@@ -25,6 +26,8 @@ CineGeek is a web platform dedicated to providing the latest information on tren
 - Boxicons
 - Ionicons
 - Google Fonts
+- Vidsrc (for video sourcing)
+- The Movie Database (TMDb) API (for movie and series data)
 
 ## How to Use
 
